@@ -1,0 +1,32 @@
+{
+  "name": "jjcf_backend_express",
+  "version": "1.0.0",
+  "description": "Backend de una apliación móvil",
+  "keywords": [
+    "backend",
+    "express",
+    "jaime",
+    "jeovanny",
+    "cortez",
+    "flores"
+  ],
+  "homepage": "https://github.com/jaimecortezufg/jjcf_backend_express#readme",
+  "bugs": {
+    "url": "https://github.com/jaimecortezufg/jjcf_backend_express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimecortezufg/jjcf_backend_express.git"
+  },
+  "license": "ISC",
+  "author": "Jaime Jeovanny Cortez Flores",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
